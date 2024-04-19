@@ -1,0 +1,6 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}/thermometer",
+        "${workspaceFolder}/mi_nodo_mesh_sensor"
+    ]
+}
